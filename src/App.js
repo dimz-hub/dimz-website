@@ -4,7 +4,7 @@ import Footer from "./component/Footer";
 import React, { useState } from 'react';
 function App() {
 
-  const [clicked, setClicked] = useState(false);
+  const [clicked, setClicked] = useState(true);
         
           const handleClick = () => {
             setClicked(!clicked);
