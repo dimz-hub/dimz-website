@@ -20,10 +20,10 @@ export default function Main() {
             <div className='flex items-center justify-center  gap-[10px] mb-[50px] xs:flex-wrap'>
                 
                 <img  className='w-[240px] h-[280px] rounded-[20px] hover:w-[260px] hover:h-[300px]'  src='/bros.jpg' alt=''/>
-                <img className='w-[240px] h-[280px] rounded-[20px] hover:w-[260px] hover:h-[300px]'  src='./ope.png' alt=''/>
+                <img className='w-[240px] h-[280px] rounded-[20px] hover:w-[260px] hover:h-[300px]'  src='./ope.jpg' alt=''/>
                 <img className='w-[240px] h-[280px] rounded-[20px] hover:w-[260px] hover:h-[300px]'  src='/nysc.jpg' alt=''/>
-                <img className='w-[240px] h-[280px] rounded-[20px] hover:w-[260px] hover:h-[300px]'  src='omo-ope.png' alt=''/>
-                <img  className='w-[240px] h-[280px] rounded-[20px] hover:w-[260px] hover:h-[300px]' src='/men.png' alt=''/>
+                <img className='w-[240px] h-[280px] rounded-[20px] hover:w-[260px] hover:h-[300px]'  src='omo-ope.jpg' alt=''/>
+                <img  className='w-[240px] h-[280px] rounded-[20px] hover:w-[260px] hover:h-[300px]' src='/men.jpg' alt=''/>
             </div> 
         </div>
         <h3 className='text-bold text-[25px] mb-[30px] xs:text-center'>Little Insight to my Brilliance</h3>
